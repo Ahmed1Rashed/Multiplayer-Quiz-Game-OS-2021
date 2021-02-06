@@ -1,0 +1,99 @@
+﻿<?xml version = "1.0"?>
+<class>
+	<question>
+		<statement>What is the worst-case time complexity of the binary search algorithm?</statement>
+		<choiceA>O(N)</choiceA>
+		<choiceB>O(N^2)</choiceB>
+		<choiceC>O(log(N))</choiceC>
+		<choiceD>O(1)</choiceD>
+		<correctChoice>C</correctChoice>
+	</question>
+	<question>
+		<statement>What is the worst-case time complexity of the insertion sort algorithm?</statement>
+		<choiceA>O(N)</choiceA>
+		<choiceB>O(N^2)</choiceB>
+		<choiceC>O(log(N))</choiceC>
+		<choiceD>O(1)</choiceD>
+		<correctChoice>B</correctChoice>
+	</question>
+	<question>
+		<statement>What is the best-case time complexity of searching for an element in an array?</statement>
+		<choiceA>O(N)</choiceA>
+		<choiceB>O(N^2)</choiceB>
+		<choiceC>O(log(N))</choiceC>
+		<choiceD>O(1)</choiceD>
+		<correctChoice>D</correctChoice>
+	</question>
+	<question>
+		<statement>A socket is a concatenation of: </statement>
+		<choiceA>TCP Address and host number</choiceA>
+		<choiceB>Host address and serial</choiceB>
+		<choiceC>IP Address and port number</choiceC>
+		<choiceD>Home address and phone number</choiceD>
+		<correctChoice>C</correctChoice>
+	</question>
+	<question>
+		<statement>Which of the following object names follows the camel case naming convention?</statement>
+		<choiceA>InputTextListener</choiceA>
+		<choiceB>message-host-thread</choiceB>
+		<choiceC>databasequeryfetcher</choiceC>
+		<choiceD>clientConnectionHandler</choiceD>
+		<correctChoice>D</correctChoice>
+	</question>
+	<question>
+		<statement>In object-oriented programming, encapsulation means:</statement>
+		<choiceA>A mechanism of wrapping the data (variables) and code acting on the data (methods) together as a single unit.</choiceA>
+		<choiceB>The ability of an object to take on many forms.</choiceB>
+		<choiceC>The mechanism of basing an object or class upon another object or class, retaining similar implementation.</choiceC>
+		<choiceD>The concept of "showing" only essential attributes and "hiding" unnecessary information.</choiceD>
+		<correctChoice>A</correctChoice>
+	</question>
+	<question>
+		<statement>In object-oriented programming, inheritance means:</statement>
+		<choiceA>A mechanism of wrapping the data (variables) and code acting on the data (methods) together as a single unit.</choiceA>
+		<choiceB>The ability of an object to take on many forms.</choiceB>
+		<choiceC>The mechanism of basing an object or class upon another object or class, retaining similar implementation.</choiceC>
+		<choiceD>The concept of "showing" only essential attributes and "hiding" unnecessary information.</choiceD>
+		<correctChoice>C</correctChoice>
+	</question>
+	<question>
+		<statement>In object-oriented programming, abstraction means:</statement>
+		<choiceA>A mechanism of wrapping the data (variables) and code acting on the data (methods) together as a single unit.</choiceA>
+		<choiceB>The ability of an object to take on many forms.</choiceB>
+		<choiceC>The mechanism of basing an object or class upon another object or class, retaining similar implementation.</choiceC>
+		<choiceD>The concept of "showing" only essential attributes and "hiding" unnecessary information.</choiceD>
+		<correctChoice>D</correctChoice>
+	</question>
+	<question>
+		<statement>In object-oriented programming, polymorphism means:</statement>
+		<choiceA>A mechanism of wrapping the data (variables) and code acting on the data (methods) together as a single unit.</choiceA>
+		<choiceB>The ability of an object to take on many forms.</choiceB>
+		<choiceC>The mechanism of basing an object or class upon another object or class, retaining similar implementation.</choiceC>
+		<choiceD>The concept of "showing" only essential attributes and "hiding" unnecessary information.</choiceD>
+		<correctChoice>B</correctChoice>
+	</question>
+	<question>
+		<statement>In computing, caching means: </statement>
+		<choiceA>Deleting old information.</choiceA>
+		<choiceB>Downloading new information.</choiceB>
+		<choiceC>Moving information from slower to faster storage temporarily.</choiceC>
+		<choiceD>Moving information from faster to slower storage temporarily.</choiceD>
+		<correctChoice>C</correctChoice>
+	</question>
+	<question>
+		<statement>Which of these is the faster storage media? </statement>
+		<choiceA>Optical Disk</choiceA>
+		<choiceB>Register</choiceB>
+		<choiceC>Random Access Memory</choiceC>
+		<choiceD>Solid State Drive</choiceD>
+		<correctChoice>B</correctChoice>
+	</question>
+	<question>
+		<statement>In computing, caching means: </statement>
+		<choiceA>Deleting old information.</choiceA>
+		<choiceB>Downloading new information.</choiceB>
+		<choiceC>Moving information from slower to faster storage temporarily.</choiceC>
+		<choiceD>Moving information from faster to slower storage temporarily..</choiceD>
+		<correctChoice>C</correctChoice>
+	</question>
+</class>
